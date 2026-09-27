@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "FeedantsAssignment",
+    "slug": "feedants-assignment",
+    "scheme": "feedants",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": ["expo-router"],
+    "android": { "package": "com.feedants.competition" }
+  }
+}
